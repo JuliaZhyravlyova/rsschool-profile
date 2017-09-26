@@ -1,2 +1,2 @@
 Julia Zhyravlyova
-https://www.codecademy.com/users/systemPro70675/achievements
+HTML CSS Basics: https://www.codecademy.com/users/systemPro70675/achievements
